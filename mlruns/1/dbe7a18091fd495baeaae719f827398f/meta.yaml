@@ -1,0 +1,15 @@
+artifact_uri: file:///home/macrodrigues/code/macrodrigues/TaxiFareModel/mlruns/1/dbe7a18091fd495baeaae719f827398f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: dbe7a18091fd495baeaae719f827398f
+run_uuid: dbe7a18091fd495baeaae719f827398f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637680256066
+status: 1
+tags: []
+user_id: unknown
